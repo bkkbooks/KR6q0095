@@ -1,0 +1,208 @@
+canonical_identifier: bkk:krp/KR6q0095/T/v1
+canonical_location: https://kanripo.org/bkk/KR6q0095/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 真心直說
+  identifiers:
+    krp: KR6q0095
+    cbeta: T48n2019A
+    cbeta_old_id: T48n2019A
+    authorityid: CA0004050
+    json_key: T2019A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2019A.xml
+    old_id: T48n2019A
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0095_000-T.yaml, hash: 'sha256:69ac707ac0a66b5c3a17f4a3fa553c93e9a29ede7576215e8f79426b0fc49ac1'}
+  - {seq: 1, filename: KR6q0095_001-T.yaml, hash: 'sha256:40182fdfc64e5c9bbb4ed8f10acc9790dd8e3f6aae98b21df32d27cdd51f967c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0095_000-T.markers.yaml, hash: 'sha256:264e1a6c731c8be5ce84e4e974b0d290b58f67a5bf416fa97893d2470a7a815b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0095_001-T.markers.yaml, hash: 'sha256:afa165398b63e5978ebfe365708a3bda636ce2562814ee40fa0182a30f4c6eb0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0095_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 真心直說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0095_T_000-mulu-2
+    span:
+    - front
+    - 302
+    - 302
+  label: 重刻真心直說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6911
+  label: 真心直說
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 真心正信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-2
+    span:
+    - body
+    - 457
+    - 457
+  label: 真心異名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-3
+    span:
+    - body
+    - 908
+    - 908
+  label: 真心妙體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-4
+    span:
+    - body
+    - 1415
+    - 1415
+  label: 真心妙用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-5
+    span:
+    - body
+    - 1709
+    - 1709
+  label: 真心體用一異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-6
+    span:
+    - body
+    - 1888
+    - 1888
+  label: 真心在迷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-7
+    span:
+    - body
+    - 2118
+    - 2118
+  label: 真心息妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-8
+    span:
+    - body
+    - 3473
+    - 3473
+  label: 真心四儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-9
+    span:
+    - body
+    - 3920
+    - 3920
+  label: 真心所在
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-10
+    span:
+    - body
+    - 4139
+    - 4139
+  label: 真心出死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-11
+    span:
+    - body
+    - 4580
+    - 4580
+  label: 真心正助
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-12
+    span:
+    - body
+    - 5039
+    - 5039
+  label: 真心功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-13
+    span:
+    - body
+    - 5322
+    - 5322
+  label: 真心驗功
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-14
+    span:
+    - body
+    - 5579
+    - 5579
+  label: 真心無知
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0095_T_001-mulu-15
+    span:
+    - body
+    - 6290
+    - 6290
+  label: 真心所往
+  type: mulu
+  level: 1
+hash: sha256:7ccbb84952b1a10f3f20e8cb32662138d40bde6865ec6953c0a4842c57850d07
