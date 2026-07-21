@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0095_000.yaml, hash: 'sha256:c5d5467cb9953fe127dc0688ead2cfab5bb3f59701e6b5a44ca51aa3136fc7a7'}
+  - {seq: 0, filename: KR6q0095_000.yaml, hash: 'sha256:d05bf120979edb00a638b8c3803e454fbd993e0593a18338b58c72802dbaf7e9'}
   - {seq: 1, filename: KR6q0095_001.yaml, hash: 'sha256:001623d87e978695046b7f707d67be663853afbae6cc97848eda7680023def65'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0095_000.markers.yaml, hash: 'sha256:00b8a29ca94e33ad0e4c48838737a0684c2b18ae4f46bfd599e88f2c4d2bd8f7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0095_000.markers.yaml, hash: 'sha256:a0e87393185adf1cda19b849b337238150422b247cdd65f75241043ba812c274'}
   - {seq: 1, role: markers, filename: assets/KR6q0095_001.markers.yaml, hash: 'sha256:7fed655b2591ec80b7ed29328bcd45aea792e2df23f075502aa15f41cd2880fb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0095_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 真心直說序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0095_T_000-mulu-2
     span:
-    - front
+    - body
     - 302
     - 302
   label: 重刻真心直說序
@@ -207,7 +207,7 @@ table_of_contents:
   label: 真心所往
   type: mulu
   level: 1
-hash: sha256:ddab1278006ecd98168dc0c48c7da7c6cc8605d842d61a847d0d7f32eabc1196
+hash: sha256:58f771f58d71208b41bf84bbca13cca110ad260475e25208b7f9d6d7bca0ca96
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
